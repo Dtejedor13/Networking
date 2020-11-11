@@ -5,6 +5,16 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networking", "Networking\Networking.csproj", "{8D1D1573-A93E-4CD7-B311-D6EC3291DE7E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Webclient", "C:\Users\D.tejedor\source\repos\Webclient\Webclient\Webclient.csproj", "{DBE033BA-0F5F-42E1-89C0-C6B9A78CCFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "C:\Users\D.tejedor\source\repos\TCPServer\TCPServer\TCPServer.csproj", "{BD561218-46D8-43FF-B335-F7B5F9FBD9FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "C:\Users\D.tejedor\source\repos\TCPServer\TCPClient\TCPClient.csproj", "{4B44F6C9-045D-4356-969D-6E1A5FDB6EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPCchannel", "E:\IPCchannel\IPCchannel\IPCchannel.csproj", "{023297D2-AB3F-498A-9A1D-38DA19B1129C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "E:\ChatConsoles\Server\Server.csproj", "{868DA335-04F7-4DF5-80AF-EF17522F10B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{8D1D1573-A93E-4CD7-B311-D6EC3291DE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D1D1573-A93E-4CD7-B311-D6EC3291DE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D1D1573-A93E-4CD7-B311-D6EC3291DE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE033BA-0F5F-42E1-89C0-C6B9A78CCFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE033BA-0F5F-42E1-89C0-C6B9A78CCFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE033BA-0F5F-42E1-89C0-C6B9A78CCFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE033BA-0F5F-42E1-89C0-C6B9A78CCFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD561218-46D8-43FF-B335-F7B5F9FBD9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD561218-46D8-43FF-B335-F7B5F9FBD9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD561218-46D8-43FF-B335-F7B5F9FBD9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD561218-46D8-43FF-B335-F7B5F9FBD9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B44F6C9-045D-4356-969D-6E1A5FDB6EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B44F6C9-045D-4356-969D-6E1A5FDB6EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B44F6C9-045D-4356-969D-6E1A5FDB6EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B44F6C9-045D-4356-969D-6E1A5FDB6EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023297D2-AB3F-498A-9A1D-38DA19B1129C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023297D2-AB3F-498A-9A1D-38DA19B1129C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023297D2-AB3F-498A-9A1D-38DA19B1129C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023297D2-AB3F-498A-9A1D-38DA19B1129C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868DA335-04F7-4DF5-80AF-EF17522F10B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868DA335-04F7-4DF5-80AF-EF17522F10B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868DA335-04F7-4DF5-80AF-EF17522F10B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868DA335-04F7-4DF5-80AF-EF17522F10B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
